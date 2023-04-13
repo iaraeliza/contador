@@ -8,4 +8,9 @@ Este é um projeto desenvolvido com Flutter que tem como objetivo ajudar a conta
 
 O aplicativo pode ser personalizado para atender às necessidades de diferentes tipos de estabelecimentos, como lojas, restaurantes, academias, cinemas, entre outros. Com sua interface intuitiva e recursos eficientes, o aplicativo pode contribuir para melhorar a gestão do fluxo de clientes e garantir o cumprimento de normas sanitárias e de segurança."
 
+##Próximas etapas
+
+Para as funcionalidade pretendo adicionar um verificador de reservas, que irá verificar se a pessoa que chegou ao restaurante tem reservas.
+
 Espero que esta descrição ajude a transmitir melhor a funcionalidade do seu projeto e os benefícios que ele pode trazer para os estabelecimentos comerciais.
+![gerenciador de entrada](https://user-images.githubusercontent.com/107582204/231630431-24e1d7db-15fd-4d50-8ff4-41273dd24722.gif)
