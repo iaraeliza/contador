@@ -1,16 +1,11 @@
-# contador
+# Contador
 
 Meu primeiro projeto em flutter
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Este é um projeto desenvolvido com Flutter que tem como objetivo ajudar a contabilizar o número de pessoas que frequentam estabelecimentos comerciais. A aplicação fornece uma interface simples e intuitiva para o usuário registrar a entrada e saída de pessoas, mantendo um controle preciso do número atual de clientes dentro do estabelecimento.
 
-A few resources to get you started if this is your first Flutter project:
+O aplicativo pode ser personalizado para atender às necessidades de diferentes tipos de estabelecimentos, como lojas, restaurantes, academias, cinemas, entre outros. Com sua interface intuitiva e recursos eficientes, o aplicativo pode contribuir para melhorar a gestão do fluxo de clientes e garantir o cumprimento de normas sanitárias e de segurança."
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Espero que esta descrição ajude a transmitir melhor a funcionalidade do seu projeto e os benefícios que ele pode trazer para os estabelecimentos comerciais.
