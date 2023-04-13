@@ -10,7 +10,7 @@ O aplicativo pode ser personalizado para atender às necessidades de diferentes 
 
 ##Próximas etapas
 
-Para as funcionalidade pretendo adicionar um verificador de reservas, que irá verificar se a pessoa que chegou ao restaurante tem reservas.
+Para as próximas funcionalidades, estou planejando adicionar um verificador de reservas que irá verificar se um cliente que chegou ao restaurante possui uma reserva. Essa funcionalidade será útil para garantir que apenas os clientes que fizeram uma reserva serão atendidos, evitando conflitos de ocupação de mesas e garantindo uma experiência agradável para todos.
 
 Espero que esta descrição ajude a transmitir melhor a funcionalidade do seu projeto e os benefícios que ele pode trazer para os estabelecimentos comerciais.
 ![gerenciador de entrada](https://user-images.githubusercontent.com/107582204/231630431-24e1d7db-15fd-4d50-8ff4-41273dd24722.gif)
